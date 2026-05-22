@@ -204,7 +204,7 @@ max(marks, key=marks.get)
 
 This finds the key whose value is maximum.
 
-In this example, `Python` has the highest mark, so it returns `Python`.
+In this example, `Python` has the highest mark, so it returns `Python`..
 
 ---
 
