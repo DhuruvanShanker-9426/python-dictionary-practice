@@ -19,7 +19,7 @@ The main goal of this practice is to understand how dictionaries work in Python,
 - Loop through keys, values, and key-value pairs
 - Count word frequency using dictionaries
 - Find the key with the highest value
-- Work with nested dictionaries
+- Work with nested dictionaries.
 
 ---
 
